@@ -1,0 +1,14 @@
+.col-md{
+    background-color: teal;
+    color:white;  
+    padding: 20px;
+    text-align: center;  
+    font-size: x-large;
+    font-weight: bold;
+}
+.row2{
+    background-color: lightsalmon;
+    height: auto;
+    width: auto;
+    margin:100px;
+}
