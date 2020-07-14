@@ -11,4 +11,9 @@
     height: auto;
     width: auto;
     margin:100px;
+    color: white;
+}
+h2{
+    color: lightsalmon;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
